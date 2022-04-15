@@ -1,0 +1,236 @@
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache

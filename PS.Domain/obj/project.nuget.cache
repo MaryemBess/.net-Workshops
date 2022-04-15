@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ap/ARAF7f7xl+K9WADH1gQgy3kkTnRxdW5XqLobKP7qCFK0FOicui89lTMfdMGSIvwlY4jRAC4D6qRKltN/BfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maryem Bessrour\\Desktop\\4TWIN\\semestre 2\\.Net\\.net-workshops-master\\PS.Domain\\PS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maryem Bessrour\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

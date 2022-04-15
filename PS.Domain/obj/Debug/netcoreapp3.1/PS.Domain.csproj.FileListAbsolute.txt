@@ -1,0 +1,40 @@
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\anaso\dotNet Esprit\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\sadwa\Documents\Twin\S2\.NET\.net-workshops\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb

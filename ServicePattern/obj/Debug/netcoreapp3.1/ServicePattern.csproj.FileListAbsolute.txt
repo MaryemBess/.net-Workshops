@@ -1,0 +1,15 @@
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Maryem Bessrour\Desktop\4TWIN\semestre 2\.Net\.net-workshops-master\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
